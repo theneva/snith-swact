@@ -1,15 +1,17 @@
-# 2015-10-22 Referat ekstraordinært studentrådsmøte Studentsamfunnet NITH
+# 2015-10-5 Referat ekstraordinært studentrådsmøte Studentsamfunnet NITH
 
 ## Formalia
 
-- Tidspunkt: 22. oktober 2015 klokken 12:00
-- Antall studenter: __16XX__
+- Tidspunkt: 5. oktober 2015 klokken 11:45
+- Antall studenter: 1 800
 - Fremmøtte delegater: 
-  - Øyvind Fuglebakk
-  - Lasse André Arnesen
-  - Eivind Vegsundvåg
-  - Martin Lehmann
-  - 
+  - Lasse André Arnesen (fungerende leder i AU)
+  - Eivind Vegsundvåg (leder for Utviklingsforeningen)
+- Ikke fremmøtte delegater:
+  - Malin Milford (økonomiansvarlig i AU)
+  - Ivar Nilsen (leder for Musikkutvalget)
+  - Leo Andreas Ervik (leder for Idrettsutvalget)
+  - Silje Linnerud (leder for KIT)
 
 ## 1 Konstituering
 
@@ -27,27 +29,25 @@ Arbeidsutvalget innstiller på følgende person som ordstyrer:
 
 - Martin Lehmann
 
-Enstemmig vedtatt.
-
 ### 1.4 Valg av protokollfører
 
 Arbeidsutvalget innstiller på følgende person som protokollførere:
 
 - Eivind Vegsundvåg
 
-Enstemmig vedtatt.
-
 ### 1.5 Valg av 3 protokollunderskrivere
 
 Arbeidsutvalget innstiller på følgende personer som protokollunderskrivere:
 
-- Lasse André Arnesen
+- Martin Lehmann
 - Olav Event
 - Adrian Tveito Ingebrigtsen
 
-Enstemmig vedtatt.
+## 2 Ekstraordinært årsmøte
 
-## 2 Innvilging av delegatstatus til ekstraordinært årsmøte
+Arbeidsutvalget innstiller på at det snarest kalles inn til og gjennomføres et ekstraordinært årsmøte for å behandle endelig sammenslåing av de to studentsamfunnene.
+
+## 3 Innvilging av delegatstatus til ekstraordinært årsmøte
 
 Arbeidsutvalget innstiller på at følgende studenter innvilges delegatstatus for kommende ekstraordinære årsmøte:
 
@@ -111,8 +111,6 @@ Arbeidsutvalget innstiller på at følgende studenter innvilges delegatstatus fo
 - 
 - 
 - 
-
-Enstemmig vedtatt.
 
 ## 3 Avslutning
 

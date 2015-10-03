@@ -7,5 +7,5 @@ Det er tydelig at dette møtet ikke burde vært nødvendig, så dette dokumentet
 - Studentsamfunnet ved Westerdals Oslo ACT (SWACT) ble opprettet som et eget organ under allmøte, i stedet for å være en endring av det eksisterende Studentsamfunnet NITH som stiller krav til _årsmøte_ for å gjennomføre denne typen endringer.
 - Vi må avholde et årsmøte i Studentsamfunnet NITH for å gjennomføre endringer av navn og vedtekter, så SWACT kan meldes inn til Brønnøysundregisteret og fungere som en virkelig organisasjon.
 
-Jeg (Martin Lehmann) beklager på vegne av arbeidsgruppa for fusjonen av studentsamfunnene at denne situasjonen har oppstått, men den vil altså løses dersom alt går som det skal under dette møtet, 22. oktober 2015.
+Jeg (Martin Lehmann) beklager på vegne av arbeidsgruppa for fusjonen av studentsamfunnene at denne situasjonen har oppstått, men den vil altså løses dersom alt går som det skal under dette møtet, 5. november 2015.
 

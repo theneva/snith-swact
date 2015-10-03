@@ -1,4 +1,4 @@
-# Dagsorden for ekstraordinært årsmøte 22. oktober 2015
+# Dagsorden for ekstraordinært årsmøte 5. november 2015
 
 1. Konstituering
     1. Godkjenning av innkalling

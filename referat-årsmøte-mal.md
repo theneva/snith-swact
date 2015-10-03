@@ -1,8 +1,8 @@
-# 2015-10-22 Referat ekstraordinært årsmøte Studentsamfunnet NITH
+# 2015-11-05 Referat ekstraordinært årsmøte Studentsamfunnet NITH
 
 ## Formalia
 
-- Tidspunkt: 22. oktober 2015 klokken 12:00
+- Tidspunkt: 5. november 2015 klokken 11:46
 - Antall studenter: __16XX__
 - Fremmøtte delegater:
   - Øyvind Fuglebakk
@@ -14,11 +14,7 @@
 
 ### 1.1 Godkjenning av innkalling
 
-Presentert og godkjent.
-
 ### 1.2 Godkjenning av dagsorden
-
-Presentert og godkjent.
 
 ### 1.3 Valg av ordstyrer
 
@@ -26,16 +22,12 @@ Arbeidsutvalget innstiller på følgende person som ordstyrer:
 
 - Martin Lehmann
 
-Enstemmig vedtatt.
-
 ### 1.4 Valg av 2 protokollførere
 
 Arbeidsutvalget innstiller på følgende personer som protokollførere:
 
 - Eivind Vegsundvåg
 - Torbjørn Brekke
-
-Enstemmig vedtatt.
 
 ### 1.5 Valg av 3 protokollunderskrivere
 
@@ -45,8 +37,6 @@ Arbeidsutvalget innstiller på følgende personer som protokollunderskrivere:
 - Olav Event
 - Adrian Tveito Ingebrigtsen
 
-Enstemmig vedtatt.
-
 ### 1.6 Valg av 3 personer til tellekorps
 
 Arbeidsutvalget innstiller på følgende personer til tellekorps:
@@ -55,21 +45,19 @@ Arbeidsutvalget innstiller på følgende personer til tellekorps:
 - 
 - 
 
-Enstemmig vedtatt.
-
 ## 2 Endringsforslag til vedtekter
 
 ### 2.1 Innlemming av Studentsamfunnet ved Westerdals Oslo ACT som en del av Studentsamfunnet NITH
 
-Arbeidsutvalget innstiller på å innlemme Studentsamfunnet ved Westerdals Oslo ACT (SWACT) som en selvstendig del av Studentsamfunnet NITH med umiddelbar virkning. Enstemmig vedtatt.
+Arbeidsutvalget innstiller på å innlemme Studentsamfunnet ved Westerdals Oslo ACT (SWACT) som en selvstendig del av Studentsamfunnet NITH med umiddelbar virkning.
 
 ### 2.2 Utskiftning av Studentsamfunnet NITHs eksisterende vedtekter med Studentsamfunnet ved Westerdals Oslo ACT (SWACT)
 
-Arbeidsutvalget innstiller på å erstatte Studentsamfunnet NITHs vedtekter med Studentsamfunnet ved Westerdals Oslo ACTs vedtekter med virkning umiddelbart etter at møtet heves. Enstemmig vedtatt.
+Arbeidsutvalget innstiller på å erstatte Studentsamfunnet NITHs vedtekter med Studentsamfunnet ved Westerdals Oslo ACTs vedtekter med virkning umiddelbart etter at møtet heves.
 
 ### 2.3 Navneendring av organisasjonen Studentsamfunnet NITH
 
-Arbeidsutvalget innstiller på å endre navn på organisasjonen Studentsamfunnet NITH registrert i Brønnøysundregistrene med organisasjonsnummer 987 571 934 til "Studentsamfunnet ved Westerdals Oslo School of Arts, Communication and Technology". Enstemmig vedtatt.
+Arbeidsutvalget innstiller på å endre navn på organisasjonen Studentsamfunnet NITH registrert i Brønnøysundregistrene med organisasjonsnummer 987 571 934 til "Studentsamfunnet ved Westerdals Oslo School of Arts, Communication and Technology".
 
 ## 3 Valg
 
