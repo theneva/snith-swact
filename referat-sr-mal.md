@@ -112,6 +112,6 @@ Arbeidsutvalget innstiller på at følgende studenter innvilges delegatstatus fo
 - 
 - 
 
-## 3 Avslutning
+## 4 Avslutning
 
 Møtet heves.
