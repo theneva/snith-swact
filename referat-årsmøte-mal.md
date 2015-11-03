@@ -3,12 +3,10 @@
 ## Formalia
 
 - Tidspunkt: 5. november 2015 klokken 11:46
-- Antall studenter: __16XX__
+- Antall studenter: 1800
 - Fremmøtte delegater:
-  - Øyvind Fuglebakk
   - Lasse André Arnesen
   - Eivind Vegsundvåg
-  - Martin Lehmann
 
 ## 1 Konstituering
 
