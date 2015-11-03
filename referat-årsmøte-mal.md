@@ -57,7 +57,7 @@ Arbeidsutvalget innstiller på å erstatte Studentsamfunnet NITHs vedtekter med 
 
 Arbeidsutvalget innstiller på å endre navn på organisasjonen Studentsamfunnet NITH registrert i Brønnøysundregistrene med organisasjonsnummer 987 571 934 til "Studentsamfunnet ved Westerdals Oslo School of Arts, Communication and Technology".
 
-## 3 Valg
+## 3 Valg i Studentsamfunnet ved Westerdals Oslo ACT
 
 Arbeidsutvalget innstiller på følgende personer til SWACT:
 
