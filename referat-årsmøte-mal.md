@@ -61,16 +61,16 @@ Arbeidsutvalget innstiller på å endre navn på organisasjonen Studentsamfunnet
 
 Arbeidsutvalget innstiller på følgende personer til SWACT:
 
-- Olav Event som leder i arbeidsutvalget. Vedtatt ved akklamasjon.
-- Marte Celina Oftedal som nestleder i arbeidsutvalget. Vedtatt ved akklamasjon.
-- Torbjørn Brekke som kommunikasjonsansvarlig i arbeidsutvalget. Vedtatt ved akklamasjon.
-- Adrian Tveito Ingebrigtsen som fagansvarlig i arbeidsutvalget. Vedtatt ved akklamasjon.
-- Silje Marie Eliassen som leder for valgkomiteen. Vedtatt ved akklamasjon.
-- Lasse André Arnesen som medlem av kontrollkomiteen. Vedtatt ved akklamasjon.
-- Eivind Vegsundvåg som medlem av kontrollkomiteen. Vedtatt ved akklamasjon.
-- Martin Lehmann som medlem av kontrollkomiteen. Vedtatt ved akklamasjon.
+- Olav Event som leder i arbeidsutvalget.
+- Marte Celina Oftedal som nestleder i arbeidsutvalget.
+- Torbjørn Brekke som kommunikasjonsansvarlig i arbeidsutvalget.
+- Adrian Tveito Ingebrigtsen som fagansvarlig i arbeidsutvalget.
+- Silje Marie Eliassen som leder for valgkomiteen.
+- Lasse André Arnesen som medlem av kontrollkomiteen.
+- Eivind Vegsundvåg som medlem av kontrollkomiteen.
+- Martin Lehmann som medlem av kontrollkomiteen.
 
-## 3 Avslutning
+## 4 Avslutning
 
 Møtet heves.
 
