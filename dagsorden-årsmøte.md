@@ -6,6 +6,7 @@
     3. Valg av ordstyrer
     4. Valg av 2 protokollførere
     5. Valg av 3 protokollunderskrivere
+    6. Valg av 3 personer til tellekorps
 2. Endringsforslag til vedtekter
     1. Innlemming av Studentsamfunnet ved Westerdals Oslo ACT som en del av Studentsamfunnet NITH
     2. Utskiftning av Studentsamfunnet NITHs eksisterende vedtekter med Studentsamfunnet ved Westerdals Oslo ACT (SWACT)
