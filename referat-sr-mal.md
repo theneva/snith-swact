@@ -47,6 +47,8 @@ Arbeidsutvalget innstiller på følgende personer som protokollunderskrivere:
 - Olav Event
 - Lasse André Arnesen
 
+Enstemmig vedtatt.
+
 ## 2 Gjennomføring av ekstraordinært årsmøte
 
 Arbeidsutvalget innstiller på at det snarest kalles inn til og gjennomføres et ekstraordinært årsmøte for å behandle endelig sammenslåing av de to studentsamfunnene.

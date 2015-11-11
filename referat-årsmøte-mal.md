@@ -4,7 +4,7 @@
 
 - Tidspunkt: 5. november 2015 klokken 11:46
 - Antall studenter: 1800
-- Fremmøtte delegater (74):
+- Fremmøtte delegater (75):
   - Lasse André Arnesen (fungerende leder for arbeidsutvalget)
   - Eivind Vegsundvåg (leder for Utviklingsutvalget)
   - Sindre Lie
